@@ -4,7 +4,7 @@ Description: Developed a Python-based project using the Gradio library for yoga 
 
 Key Features:
 - Utilized Gradio library for creating a user-friendly interface to upload and process 2D images of yoga poses.
-- Integrated computer vision algorithms and machine learning techniques to accurately detect and recognize yoga poses from the uploaded images.
+- Integrated computer vision technique CNN with Keras basic model to accurately detect and recognize yoga poses from the uploaded images.
 - Provided instant feedback by identifying the correct pose and displaying it to the user.
 - Future plans to upgrade the project include implementing real-time pose detection for live video streams and generating personalized feedback to assist users in improving their yoga practice.
 - Ensured scalability and extensibility of the system to accommodate additional yoga poses and support advanced pose detection techniques in future upgrades.
